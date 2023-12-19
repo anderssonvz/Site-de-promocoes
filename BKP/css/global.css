@@ -1,0 +1,10 @@
+:root {
+    --laranja: #FF7F11;
+    --vermelho: #FF1B1C;
+    --azul: #78C8D3;
+    --shadow: 5px 5px 20px #00000049;
+}
+
+* {
+    margin: 0;padding: 0;font-family: Arial, Helvetica, sans-serif;
+}

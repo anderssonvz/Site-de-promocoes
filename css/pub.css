@@ -1,0 +1,66 @@
+body{
+    background-color: var(--azul);
+}
+
+#pub {
+    background-color: white;
+    max-width: 400px;
+    max-height: 800px;
+    margin: 80px auto;
+    padding: 80px;
+    box-shadow: var(--shadow);
+    text-align: center;
+    font-size: 1.2em;
+}
+
+#title {
+    font-size: 1.4em;
+    margin: auto;
+    width: 300px;
+}
+
+#img{
+    margin: auto;
+    width: 100px;
+}
+img{
+    width: 100%;
+}
+
+li{
+    list-style-type: none;
+    margin: 30px;
+}
+
+li > textarea {
+    max-width: 900px;
+    min-width: 300px;
+    height: 120px;
+}
+
+li > input {
+    width: 300px;
+}
+
+select {
+    width: 300px;
+}
+
+a.result {
+    text-decoration: none;
+    color: black;
+}
+
+a.result:hover {
+    text-decoration: underline;
+}
+p.result{
+    margin-top: 5px;
+    font-size: 0.8em;
+}
+input#enviar {
+    width: 100px;
+    height: 20px;
+    font-weight: bolder;
+    margin-bottom: 15px;
+}
