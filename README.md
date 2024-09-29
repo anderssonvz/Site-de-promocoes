@@ -1,1 +1,1 @@
-O trabalho consiste em um site de publicações de promoções de itens de estabelecimentos locais, onde permite fazer cadastro de itens, estabelecimentos e etc.
+Este site foi realizado na disciplina de Projeto de Banco de Dados, consiste em um site CRUD com banco de dados SQL, onde são feitas publicações de promoções,itens e estabelecimentos locais, permitindo cadastrar e editar o conteúdo.
