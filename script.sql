@@ -26,7 +26,7 @@ CREATE TABLE produto (
 INSERT INTO produto VALUES (0, '2', 'Desinfetante Lavanda 2L', 'Pato');
 INSERT INTO produto VALUES (0, '1', 'Coca Cola 2L', 'Coca Cola');
 INSERT INTO produto VALUES (0, '1', 'Coca Cola 350ml', 'Coca Cola');
-INSERT INTO produto VALUES (0, '4', 'TV 42\' 4K', 'Sony');
+INSERT INTO produto VALUES (0, '4', 'TV 42', 'Sony');
 INSERT INTO produto VALUES (0, '4', 'Galaxy A20', 'Samsung');
 INSERT INTO produto VALUES (0, '3', 'Feijão 2KG', 'Tordilho');
 INSERT INTO produto VALUES (0, '3', 'Arroz 1 KG', 'São João');

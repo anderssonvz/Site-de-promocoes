@@ -1,5 +1,5 @@
 <?php 
-    $host = "localhost";
+    $host = "localhost:3306";
     $user = "root";
     $password = "";
     $db = "trab_pbd";
@@ -9,6 +9,7 @@
     } catch (PDOException $err) {
         echo "Erro: Conexão com Banco de Dados -> ".$err->getMessage();
     }
+
 
     /*$cpfUser = $_GET['cpf_usu'];
 
